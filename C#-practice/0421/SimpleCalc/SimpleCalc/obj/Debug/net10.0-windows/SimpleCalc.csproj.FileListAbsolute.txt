@@ -1,0 +1,16 @@
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\bin\Debug\net10.0-windows\SimpleCalc.exe
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\bin\Debug\net10.0-windows\SimpleCalc.deps.json
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\bin\Debug\net10.0-windows\SimpleCalc.runtimeconfig.json
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\bin\Debug\net10.0-windows\SimpleCalc.dll
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\bin\Debug\net10.0-windows\SimpleCalc.pdb
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\SimpleCalc.Form1.resources
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\SimpleCalc.csproj.GenerateResource.cache
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\SimpleCalc.AssemblyInfoInputs.cache
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\SimpleCalc.AssemblyInfo.cs
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\SimpleCalc.dll
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\refint\SimpleCalc.dll
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\SimpleCalc.pdb
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\SimpleCalc.genruntimeconfig.cache
+C:\Users\f1206\source\repos\SimpleCalc\SimpleCalc\obj\Debug\net10.0-windows\ref\SimpleCalc.dll
