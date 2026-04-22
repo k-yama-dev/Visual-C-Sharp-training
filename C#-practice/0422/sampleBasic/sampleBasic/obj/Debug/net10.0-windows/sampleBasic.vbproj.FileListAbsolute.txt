@@ -1,0 +1,16 @@
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\bin\Debug\net10.0-windows\sampleBasic.exe
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\bin\Debug\net10.0-windows\sampleBasic.deps.json
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\bin\Debug\net10.0-windows\sampleBasic.runtimeconfig.json
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\bin\Debug\net10.0-windows\sampleBasic.dll
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\bin\Debug\net10.0-windows\sampleBasic.pdb
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\sampleBasic.Form1.resources
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\sampleBasic.vbproj.GenerateResource.cache
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\sampleBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\sampleBasic.AssemblyInfoInputs.cache
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\sampleBasic.AssemblyInfo.vb
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\sampleBasic.vbproj.CoreCompileInputs.cache
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\sampleBasic.dll
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\refint\sampleBasic.dll
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\sampleBasic.pdb
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\sampleBasic.genruntimeconfig.cache
+C:\Users\f1206\source\repos\sampleBasic\sampleBasic\obj\Debug\net10.0-windows\ref\sampleBasic.dll

@@ -1,0 +1,10 @@
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\bin\Debug\sampleFrame.exe.config
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\bin\Debug\sampleFrame.exe
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\bin\Debug\sampleFrame.pdb
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\obj\Debug\sampleFrame.csproj.AssemblyReference.cache
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\obj\Debug\sampleFrame.Form1.resources
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\obj\Debug\sampleFrame.Properties.Resources.resources
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\obj\Debug\sampleFrame.csproj.GenerateResource.cache
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\obj\Debug\sampleFrame.csproj.CoreCompileInputs.cache
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\obj\Debug\sampleFrame.exe
+C:\Users\f1206\source\repos\sampleFrame\sampleFrame\obj\Debug\sampleFrame.pdb
