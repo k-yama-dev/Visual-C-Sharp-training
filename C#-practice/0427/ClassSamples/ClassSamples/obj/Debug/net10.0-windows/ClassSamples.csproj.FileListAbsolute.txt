@@ -1,0 +1,16 @@
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ClassSamples.Form1.resources
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ClassSamples.csproj.GenerateResource.cache
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ClassSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ClassSamples.AssemblyInfoInputs.cache
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ClassSamples.AssemblyInfo.cs
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ClassSamples.csproj.CoreCompileInputs.cache
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\bin\Debug\net10.0-windows\ClassSamples.exe
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\bin\Debug\net10.0-windows\ClassSamples.deps.json
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\bin\Debug\net10.0-windows\ClassSamples.runtimeconfig.json
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\bin\Debug\net10.0-windows\ClassSamples.dll
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\bin\Debug\net10.0-windows\ClassSamples.pdb
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ClassSamples.dll
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\refint\ClassSamples.dll
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ClassSamples.pdb
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ClassSamples.genruntimeconfig.cache
+C:\Users\f1206\source\repos\ClassSamples\ClassSamples\obj\Debug\net10.0-windows\ref\ClassSamples.dll
