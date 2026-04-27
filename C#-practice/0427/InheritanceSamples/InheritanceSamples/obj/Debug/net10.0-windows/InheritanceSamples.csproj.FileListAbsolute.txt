@@ -1,0 +1,16 @@
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\bin\Debug\net10.0-windows\InheritanceSamples.exe
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\bin\Debug\net10.0-windows\InheritanceSamples.deps.json
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\bin\Debug\net10.0-windows\InheritanceSamples.runtimeconfig.json
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\bin\Debug\net10.0-windows\InheritanceSamples.dll
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\bin\Debug\net10.0-windows\InheritanceSamples.pdb
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\InheritanceSamples.Form1.resources
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\InheritanceSamples.csproj.GenerateResource.cache
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\InheritanceSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\InheritanceSamples.AssemblyInfoInputs.cache
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\InheritanceSamples.AssemblyInfo.cs
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\InheritanceSamples.csproj.CoreCompileInputs.cache
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\InheritanceSamples.dll
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\refint\InheritanceSamples.dll
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\InheritanceSamples.pdb
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\InheritanceSamples.genruntimeconfig.cache
+C:\Users\f1206\source\repos\InheritanceSamples\InheritanceSamples\obj\Debug\net10.0-windows\ref\InheritanceSamples.dll
