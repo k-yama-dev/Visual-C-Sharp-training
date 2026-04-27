@@ -1,0 +1,16 @@
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\bin\Debug\net10.0-windows\EncapsulationSample.exe
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\bin\Debug\net10.0-windows\EncapsulationSample.deps.json
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\bin\Debug\net10.0-windows\EncapsulationSample.runtimeconfig.json
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\bin\Debug\net10.0-windows\EncapsulationSample.dll
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\bin\Debug\net10.0-windows\EncapsulationSample.pdb
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\EncapsulationSample.Form1.resources
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\EncapsulationSample.csproj.GenerateResource.cache
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\EncapsulationSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\EncapsulationSample.AssemblyInfoInputs.cache
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\EncapsulationSample.AssemblyInfo.cs
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\EncapsulationSample.csproj.CoreCompileInputs.cache
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\EncapsulationSample.dll
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\refint\EncapsulationSample.dll
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\EncapsulationSample.pdb
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\EncapsulationSample.genruntimeconfig.cache
+C:\Users\f1206\source\repos\EncapsulationSample\EncapsulationSample\obj\Debug\net10.0-windows\ref\EncapsulationSample.dll
