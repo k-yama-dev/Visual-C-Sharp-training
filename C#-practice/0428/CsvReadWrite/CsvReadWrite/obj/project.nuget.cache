@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkWQrjRYgss=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\f1206\\source\\repos\\CsvReadWrite\\CsvReadWrite\\CsvReadWrite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f1206\\.nuget\\packages\\csv\\2.0.217\\csv.2.0.217.nupkg.sha512"
+  ],
+  "logs": []
+}

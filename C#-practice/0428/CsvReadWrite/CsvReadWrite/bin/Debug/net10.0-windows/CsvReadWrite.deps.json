@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CsvReadWrite/1.0.0": {
+        "dependencies": {
+          "Csv": "2.0.217"
+        },
+        "runtime": {
+          "CsvReadWrite.dll": {}
+        }
+      },
+      "Csv/2.0.217": {
+        "runtime": {
+          "lib/net9.0/Csv.dll": {
+            "assemblyVersion": "2.0.217.0",
+            "fileVersion": "2.0.217.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsvReadWrite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Csv/2.0.217": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DoRNjDW1Oekbv2oBsm2hm3P7WBl8f884zNWthSxhAuzL/RcmmqzjpGy/UVQaTrY8bv6Ji/FGiehB9BI+yc5vEg==",
+      "path": "csv/2.0.217",
+      "hashPath": "csv.2.0.217.nupkg.sha512"
+    }
+  }
+}
