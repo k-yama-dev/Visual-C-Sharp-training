@@ -11,3 +11,5 @@ mor chap6 282p start ~ 302p aft 303p enccapsulation ~ Inheritance 317p
 mor 321p ポリモーフィズム ～338p aft 339p インターフェース ～ 373p CSV
 ### 0430
 mor 欠席 aft ~ p430
+### 0507
+1st 欠席 mor form呼び出し aft
