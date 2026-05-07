@@ -1,0 +1,14 @@
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\bin\Debug\net10.0\ConsoleHello.exe
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\bin\Debug\net10.0\ConsoleHello.deps.json
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\bin\Debug\net10.0\ConsoleHello.runtimeconfig.json
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\bin\Debug\net10.0\ConsoleHello.dll
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\bin\Debug\net10.0\ConsoleHello.pdb
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\obj\Debug\net10.0\ConsoleHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\obj\Debug\net10.0\ConsoleHello.AssemblyInfoInputs.cache
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\obj\Debug\net10.0\ConsoleHello.AssemblyInfo.cs
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\obj\Debug\net10.0\ConsoleHello.csproj.CoreCompileInputs.cache
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\obj\Debug\net10.0\ConsoleHello.dll
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\obj\Debug\net10.0\refint\ConsoleHello.dll
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\obj\Debug\net10.0\ConsoleHello.pdb
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\obj\Debug\net10.0\ConsoleHello.genruntimeconfig.cache
+C:\Users\f1206\source\repos\ConsoleHello\ConsoleHello\obj\Debug\net10.0\ref\ConsoleHello.dll
