@@ -1,0 +1,16 @@
+C:\Users\f1025\source\repos\AddListBox\AddListBox\bin\Debug\net10.0-windows\AddListBox.exe
+C:\Users\f1025\source\repos\AddListBox\AddListBox\bin\Debug\net10.0-windows\AddListBox.deps.json
+C:\Users\f1025\source\repos\AddListBox\AddListBox\bin\Debug\net10.0-windows\AddListBox.runtimeconfig.json
+C:\Users\f1025\source\repos\AddListBox\AddListBox\bin\Debug\net10.0-windows\AddListBox.dll
+C:\Users\f1025\source\repos\AddListBox\AddListBox\bin\Debug\net10.0-windows\AddListBox.pdb
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\AddListBox.Form1.resources
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\AddListBox.csproj.GenerateResource.cache
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\AddListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\AddListBox.AssemblyInfoInputs.cache
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\AddListBox.AssemblyInfo.cs
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\AddListBox.csproj.CoreCompileInputs.cache
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\AddListBox.dll
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\refint\AddListBox.dll
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\AddListBox.pdb
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\AddListBox.genruntimeconfig.cache
+C:\Users\f1025\source\repos\AddListBox\AddListBox\obj\Debug\net10.0-windows\ref\AddListBox.dll
