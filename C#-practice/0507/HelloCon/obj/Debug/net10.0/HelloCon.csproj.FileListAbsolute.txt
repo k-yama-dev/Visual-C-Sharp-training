@@ -1,0 +1,14 @@
+C:\Users\f1206\source\repos\HelloCon\bin\Debug\net10.0\HelloCon.exe
+C:\Users\f1206\source\repos\HelloCon\bin\Debug\net10.0\HelloCon.deps.json
+C:\Users\f1206\source\repos\HelloCon\bin\Debug\net10.0\HelloCon.runtimeconfig.json
+C:\Users\f1206\source\repos\HelloCon\bin\Debug\net10.0\HelloCon.dll
+C:\Users\f1206\source\repos\HelloCon\bin\Debug\net10.0\HelloCon.pdb
+C:\Users\f1206\source\repos\HelloCon\obj\Debug\net10.0\HelloCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1206\source\repos\HelloCon\obj\Debug\net10.0\HelloCon.AssemblyInfoInputs.cache
+C:\Users\f1206\source\repos\HelloCon\obj\Debug\net10.0\HelloCon.AssemblyInfo.cs
+C:\Users\f1206\source\repos\HelloCon\obj\Debug\net10.0\HelloCon.csproj.CoreCompileInputs.cache
+C:\Users\f1206\source\repos\HelloCon\obj\Debug\net10.0\HelloCon.dll
+C:\Users\f1206\source\repos\HelloCon\obj\Debug\net10.0\refint\HelloCon.dll
+C:\Users\f1206\source\repos\HelloCon\obj\Debug\net10.0\HelloCon.pdb
+C:\Users\f1206\source\repos\HelloCon\obj\Debug\net10.0\HelloCon.genruntimeconfig.cache
+C:\Users\f1206\source\repos\HelloCon\obj\Debug\net10.0\ref\HelloCon.dll
