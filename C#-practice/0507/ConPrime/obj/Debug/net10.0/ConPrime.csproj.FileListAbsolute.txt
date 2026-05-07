@@ -1,0 +1,14 @@
+C:\Users\f1206\source\repos\ConPrime\obj\Debug\net10.0\ConPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f1206\source\repos\ConPrime\obj\Debug\net10.0\ConPrime.AssemblyInfoInputs.cache
+C:\Users\f1206\source\repos\ConPrime\obj\Debug\net10.0\ConPrime.AssemblyInfo.cs
+C:\Users\f1206\source\repos\ConPrime\obj\Debug\net10.0\ConPrime.csproj.CoreCompileInputs.cache
+C:\Users\f1206\source\repos\ConPrime\bin\Debug\net10.0\ConPrime.exe
+C:\Users\f1206\source\repos\ConPrime\bin\Debug\net10.0\ConPrime.deps.json
+C:\Users\f1206\source\repos\ConPrime\bin\Debug\net10.0\ConPrime.runtimeconfig.json
+C:\Users\f1206\source\repos\ConPrime\bin\Debug\net10.0\ConPrime.dll
+C:\Users\f1206\source\repos\ConPrime\bin\Debug\net10.0\ConPrime.pdb
+C:\Users\f1206\source\repos\ConPrime\obj\Debug\net10.0\ConPrime.dll
+C:\Users\f1206\source\repos\ConPrime\obj\Debug\net10.0\refint\ConPrime.dll
+C:\Users\f1206\source\repos\ConPrime\obj\Debug\net10.0\ConPrime.pdb
+C:\Users\f1206\source\repos\ConPrime\obj\Debug\net10.0\ConPrime.genruntimeconfig.cache
+C:\Users\f1206\source\repos\ConPrime\obj\Debug\net10.0\ref\ConPrime.dll
