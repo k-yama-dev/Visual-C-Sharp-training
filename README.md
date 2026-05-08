@@ -13,3 +13,5 @@ mor 321p ポリモーフィズム ～338p aft 339p インターフェース ～ 
 mor 欠席 aft ~ p430
 ### 0507
 1st 欠席 mor form呼び出し aft etc
+### 0508
+myhousekeeping
