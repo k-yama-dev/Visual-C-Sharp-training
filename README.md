@@ -15,3 +15,5 @@ mor 欠席 aft ~ p430
 1st 欠席 mor form呼び出し aft etc
 ### 0508
 myhousekeeping
+### 0511
+re:myhousekeeping
