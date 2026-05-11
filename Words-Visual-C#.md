@@ -68,6 +68,7 @@
 カプセル化 被包 封入
 ## derive
 引き出す　由来する 跡付ける
+## 
 ## polymorphism
 多態性 多様性 多形
 ## modal
