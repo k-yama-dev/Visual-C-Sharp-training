@@ -17,3 +17,5 @@ mor 欠席 aft ~ p430
 myhousekeeping
 ### 0511
 re:myhousekeeping　santa sort
+### 0512
+sample etc exam
